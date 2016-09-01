@@ -1,4 +1,4 @@
-## It rained the last time in New York on *September 1st 2016 around 11:05 am*
-💧  **light rain** *Humidity 94%*
+## It rained the last time in New York on *September 1st 2016 around 01:05 pm*
+💧  **moderate rain** *Humidity 69%*
 
-![light rain](http://openweathermap.org/img/w/10d.png) ![light intensity drizzle](http://openweathermap.org/img/w/09d.png) ![mist](http://openweathermap.org/img/w/50d.png)
+![moderate rain](http://openweathermap.org/img/w/10d.png)
